@@ -1,2 +1,2 @@
 # EpiBOT
-Bot de integração com o Slack!!!!
+Bot de integração com o Slack
